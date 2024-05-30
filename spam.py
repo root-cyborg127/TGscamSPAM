@@ -7,8 +7,8 @@ from art import *
 import random  # Import random library
 
 # Configuration
-API_TOKEN = '5608271180:AAEJBD-LZLCE_ySZdbQuOKKo0qvcEWdG9Tg'
-CHAT_IDS = ['5396432434', '6500213500']  # replace with actual chat IDs
+API_TOKEN = ''
+CHAT_IDS = ['5357895784', '6505857897']  # replace with actual chat IDs
 MESSAGES = [
     'Bro i Have your Telegram Access and i know what youre upto , contact me @suprafreak or instagram @milliesgreatestfan',
     'CONTACT ME NOW ASAP @suprafreak',
