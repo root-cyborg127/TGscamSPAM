@@ -10,9 +10,9 @@ import random  # Import random library
 API_TOKEN = ''
 CHAT_IDS = ['5357895784', '6505857897']  # replace with actual chat IDs
 MESSAGES = [
-    'Bro i Have your Telegram Access and i know what youre upto , contact me @suprafreak or instagram @milliesgreatestfan',
-    'CONTACT ME NOW ASAP @suprafreak',
-    'ASAP SEND HI TO ME OR END UP IN JAIL ! @Suprafreak',
+    '',
+    '',
+    '',
     # Add as many messages as you want
 ]
 # Enable logging
