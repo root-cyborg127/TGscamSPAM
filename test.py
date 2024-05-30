@@ -9,13 +9,10 @@ init()
 # Replace with your own token and chat IDs
 # Configuration
 TOKEN = '6681604946:AAF9aIYvwh5qvyaM-OErSeh2Bk9vKCNMWs8'
-CHAT_IDS = ['5396432434', '-4233485302']  # replace with actual chat IDs
+CHAT_IDS = ['539647904', '-4233485302']  # replace with actual chat IDs
 MESSAGES = [
-    'Bro i Have your Telegram Access and i know what youre upto , contact me @suprafreak or instagram @milliesgreatestfan or else i would file a complaint against you with all the proofs.',
-    'CONTACT ME NOW ASAP @suprafreak',
-    'ASAP SEND HI TO ME OR END UP IN JAIL ! @Suprafreak',
-    # 'Bro pay me 900 rupees I would design you a better phishing page of instagram than this dm me @Suprafreak',
-'ASAP SEND HI TO ME OR END UP IN JAIL ! @Suprafreak'
+    '',''
+    
     # Add as many messages as you want
 ]
 
